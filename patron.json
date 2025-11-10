@@ -1,0 +1,47 @@
+{
+    "LauncherVersion":2,a
+    "GameVersion":"1.21.1",
+    "FabricVersion":"0.16.9",
+    "mods": [
+        "other/mods/aesirmc-client-0.5.80.jar"
+    ],
+
+    "curseforgeMods": [
+        "306612:5917563:fabric-api-0.109.0+1.21.1.jar",
+        
+        "511319:5909784:reeses-sodium-options-fabric-1.8.0+mc1.21.3.jar",
+        "248787:5864741:appleskin-fabric-mc1.21-3.0.6.jar",
+        "551736:5807538:sodiumdynamiclights-fabric-1.0.9-1.21.1.jar", 
+        "398407:5717805:rebind-all-the-keys-1.6.0+1.21.jar",
+        "335493:6662064:dynamic-fps-3.9.5+minecraft-1.21.0-fabric.jar",
+        "452046:5738288:enhancedblockentities-0.10.2+1.21.jar",
+        "448233:5866470:entityculling-fabric-1.7.1-mc1.21.jar",
+        "416089:5907390:voicechat-fabric-1.21.1-2.5.26.jar", 
+        "561885:5619650:justzoom_fabric_2.0.0_MC_1.21-1.21.1.jar", 
+        "455508:5910087:iris-fabric-1.8.0+mc1.21.1.jar",
+        "459857:5850342:ferritecore-7.0.2-hotfix-fabric.jar",
+        "542478:5591020:LegendaryTooltips-1.21-fabric-1.4.11.jar",
+        "560042:6454680:chatpatches-211.6.9-secure.jar",
+        "394468:5909714:sodium-fabric-0.6.0+mc1.21.1.jar",
+        "844662:5722728:entity_model_features_fabric_1.21-2.2.6.jar",
+        "568563:5921309:entity_texture_features_fabric_1.21.1-6.2.8.jar",
+        "447673:5913375:sodium-extra-fabric-0.6.0+mc1.21.1.jar",
+
+        "1103431:5917935:sodiumoptionsapi-fabric-1.0.6-1.21.1.jar",
+        "348521:5729125:cloth-config-15.0.140-fabric.jar",
+        "667299:5834696:YetAnotherConfigLib-3.6.1+1.21-fabric.jar",
+        "665526:5625110:Prism-1.21-fabric-1.0.9.jar",
+        "539382:5732274:Iceberg-1.21-fabric-1.2.7.jar",
+        "521427:5821270:citresewn-1.2.2+1.21.jar",
+        "416797:5430434:konkrete_fabric_1.9.9_MC_1.21.jar",
+        "388172:6304945:geckolib-fabric-1.21.1-4.7.5.1.jar"
+    ],
+
+    "Modrinth": [ ],
+
+    "Updates": [           
+        {"type": "HEAD",  "text": "PATRON CLIENT v1.0.0"},  
+        {"type": "ADD",   "text": "Semih ve Eymen amı götü dağıttı."}
+ 
+    ]
+}
